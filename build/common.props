@@ -1,0 +1,11 @@
+<Project>
+    <Import Project="version.props" />
+    <PropertyGroup>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Authors>pauldotknopf</Authors>
+        <PackageDescription>A dumb lib to help manage read/write locks.</PackageDescription>
+        <Summary>A dumb lib to help manage read/write locks.</Summary>
+        <RepositoryUrl>https://github.com/pauldotknopf/sharp-read-write-lock</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/pauldotknopf/sharp-read-write-lock</PackageProjectUrl>
+    </PropertyGroup>
+</Project>
